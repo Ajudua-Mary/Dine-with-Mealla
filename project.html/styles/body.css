@@ -1,0 +1,267 @@
+.end{
+  background-image: url('../pictures/background.PNG');
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+  border: 2px solid white ;
+  position: relative;
+  border-radius: 18px;
+   height: auto;
+  box-sizing: border-box;
+  margin-right: 0;
+   margin-top: 40px;
+   width: 100%;
+}
+.title-text{
+ margin-bottom: 5px;
+ margin-top: 10px;
+ position: absolute;
+}
+.pro{
+  border-radius: 40px;
+  width: 50px;
+  max-width: 50%;
+  object-fit: cover;
+  height: 50px;
+  margin-left: 40px;
+  margin-top: 8px;
+}
+.tt{
+  margin-left: 5px;
+  margin-top: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.M1{
+ color: black;
+ font-size: 24px;
+ padding-bottom: 8px;
+ margin-bottom: 5px;
+ padding-top: 8px;
+ padding-left: 5px;
+}
+.ea1{
+ color: brown;
+ font-size: 14px;
+  padding-top: 27px;
+}
+.ll1{
+ color: black;
+ font-size: 14px;
+  padding-top: 27px;
+}
+.a1{
+ color: brown;
+ font-size: 14px;
+  padding-top: 27px;
+}
+.home{
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  font-family: Arial;
+  cursor: pointer;
+}
+.h:active{
+  text-decoration: underline;
+}
+.m:active{
+  text-decoration: underline;
+}
+.h:active{
+  text-decoration: underline;
+}
+.h:active{
+  text-decoration: underline;
+}
+.h:active{
+  text-decoration: underline;
+}
+.pro1{
+  object-fit: contain;
+  background-color: lightgray;
+  position: absolute;
+  right: 0;
+  width: 25px;
+  height: 25px;
+  margin-right: -2px;
+  margin-top: 5px;
+}
+.notifications-count{
+  position: absolute;
+  top: 0;
+  right: -8px;
+  border-radius: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  font-family: Arial;
+  font-size: 10px;
+  background-color: black;
+  color: white;
+}
+.Dine-text{
+ color: gray;
+ font-size: 16px;
+ padding-top: 35px;
+}
+.M{
+ color: black;
+ font-size: 80px;
+ padding-bottom: 8px;
+ margin-bottom: 5px;
+ padding-top: 8px;
+ padding-left: 5px;
+}
+.ea{
+ color: brown;
+ font-size: 40px;
+  padding-top: 27px;
+}
+.ll{
+ color: black;
+ font-size: 40px;
+  padding-top: 27px;
+}
+.a{
+ color: brown;
+ font-size: 40px;
+  padding-top: 27px;
+}
+.dine{
+  color: black;
+ font-size: 80px;
+ padding-bottom: 30px;
+ padding-left: 5px;
+}
+.body-text{
+ width: 570px;
+ height: 200px;
+ margin-right: 80px;
+ margin-left: 60px;
+}
+.image1{
+ border-radius: 350px;
+ height: 250px;
+ width: 250px;
+ top: 40px;
+ right: 30px;
+ position: absolute;
+ margin-left: 20px;
+ margin-right: 60px;
+}
+.Reserve-button{
+  margin-right: 20px;
+  margin-left: 60px;
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 3px;
+  margin-right: 9px;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+.Reserve-button:hover{
+  opacity: 0.8;
+}
+.Reserve-button:active{
+  opacity: 0.7;
+}
+.view-button{
+  margin-right: 30px;
+  margin-left: 20px;
+  background-color: orange;
+ 
+  color: black;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 3px;
+  margin-right: 9px;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+.view-button:hover{
+  background-color: rgb(218, 138, 18);
+}
+.view-button:active{
+  opacity: 0.7;
+}
+.Everyday{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  margin-right: 67px;
+  font-weight: bold;
+}
+.food{
+  height: 200px;
+  width: 100%;
+  max-width: 200px;
+  margin-left: 6px;
+
+  
+  margin-right: 6px;
+}
+.read1, .read2,.read3{
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 600;
+ 
+}
+.read1{
+  margin-right: 10px;
+  margin-left: 60px;
+}
+.read2, .read3{
+  margin-left: 20px;
+}
+.end-text{
+  margin-right: 20px;
+  margin-top: 40px;
+  margin-left: 10px;
+}
+.sol{
+  margin-left: 12px;
+  margin-right: 3px;
+  font-size: 22px;
+  font-weight: 500;
+}
+.Contacts1{
+ margin-left: 30px;
+  color: rgb(12, 11, 11);
+  font-family: Arial;
+}
+.Contacts2{
+  margin-right: 30px;
+ 
+}
+ @media (max-width: 600px) {
+    .main{
+      width: 100%;
+    }
+   }
+   @media (min-width: 601px) and (max-width: 990px){
+    .main{
+      width: 90%;
+    }
+   }
+   @media (min-width: 1000px) {
+    .main{
+      width: 1150px;
+    }
+   }
+  @media (max-width: 800px) {
+    .end{
+      flex-direction: column;
+      align-items: center;
+    }
+   }

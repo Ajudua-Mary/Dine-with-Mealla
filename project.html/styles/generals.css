@@ -1,0 +1,11 @@
+body{
+ padding-bottom: 500px;
+ overflow-x: hidden;
+ width: 90%;
+ max-width: 1150px;
+ margin: auto;
+ background-image: url("../pictures/backk.PNG");
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+}
