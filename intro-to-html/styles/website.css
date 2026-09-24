@@ -1,0 +1,10 @@
+.stock-text{
+  color: rgb(6, 185, 6);
+ }
+
+.amazonlink-text:hover{
+ color: orange;
+}
+ .searchwithgoogle-text:hover{
+  color: yellow;
+ }

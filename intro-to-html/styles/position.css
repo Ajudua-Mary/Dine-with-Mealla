@@ -1,0 +1,21 @@
+  .modal{
+    font-family: Arial;
+    font-weight: bold;
+    
+   }
+ .this{
+  font-family: Arial;
+ }
+.olive{
+   border-radius: 65px;
+  width: 60px;
+  object-fit: cover;
+  height: 60px;
+  margin-top: 0px;
+}
+
+.plus{
+  margin-right: 1px;
+  font-size: 30px;
+  color:  rgb(230, 228, 228);
+}

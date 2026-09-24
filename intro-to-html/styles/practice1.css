@@ -1,0 +1,316 @@
+ .Back-text{
+  color: rgb(0, 113, 133);
+}
+.Back-text:hover{
+  color: rgb(212, 134, 16);
+}
+.Nike-text{
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.in-text{
+  color: rgb(0, 118, 0);
+}
+
+.buy-button{
+  background-color: rgb(255, 164, 28);
+  color: black;
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 31px;
+  padding-left: 31px;
+  border-radius: 25px;
+  margin-right: 9px;
+  transition: background-color 0.2s
+    opacity 0.2s;
+  cursor: pointer;
+}
+.buy-button:hover{
+  background-color: rgb(188, 126, 11);
+}
+.buy-button:active{
+  opacity: 0.8;
+}
+.Subscribe-button{
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 2px;
+  margin-right: 9px;
+  transition: opacity 0.15s;
+  cursor: pointer;
+}
+.Subscribe-button:hover{
+  opacity: 0.8;
+}
+.Subscribe-button:active{
+  opacity: 0.5;
+}
+.Join-button{
+  background-color: white;
+  color: rgb(41, 118, 211);
+  border-color: rgb(41, 118, 211);
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 2px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-right: 16px;
+  padding-left: 16px;
+  margin-right: 9px;
+  transition: background-color 1s
+    color 1s;
+  cursor: pointer;
+}
+.Join-button:hover{
+  color: white;
+  background-color: rgb(41, 118, 211);
+}
+.Join-button:active{
+  opacity: 0.7;
+}
+.Tweet-button{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-right: 17px;
+  padding-left: 17px;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  transition: box-shadow 0.2s;
+  margin-right: 9px;
+  cursor: pointer;
+}
+.Tweet-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+.Request-button{
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 1px;
+  margin-right: 9px;
+  transition: opacity 0.3s;
+  cursor: pointer;
+}
+.Request-button:hover{
+  opacity: 0.8;
+}
+.Request-button:active{
+  opacity: 0.7;
+}
+
+.Add-button{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 31px;
+  padding-left: 31px;
+  border-radius: 25px;
+  margin-right: 9px;
+  transition: background-color 0.2s
+    opacity 0.2s;
+  cursor: pointer;
+}
+.Add-button:hover{
+  background-color: rgb(245, 198, 8);
+}
+.Add-button:active{
+  opacity: 0.8;
+}
+.Sign-button{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  padding-top: 7.5px;
+  padding-bottom: 7.5px;
+  padding-right: 18.5px;
+  padding-left: 18.5px;
+  font-weight: bold;
+  font-size: 12px;
+  border-radius: 4px;
+  margin-right: 9px;
+  transition: box-shadow 0.2s;
+  cursor: pointer;
+}
+.Sign-button:hover{
+  box-shadow:5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+.Get-button{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  padding-top: 10.5px;
+  padding-bottom: 10.5px;
+  padding-right: 21px;
+  padding-left: 21px;
+  font-weight: bold;
+  border-radius: 3px;
+  margin-right: 9px;
+  transition: background-color 0.2s;
+  cursor: pointer;
+}
+.Get-button:hover{
+  background-color: rgb(89, 53, 142);
+}
+.Download-button{
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(108, 117, 125);
+  font-weight: bold;
+  padding-top: 10.5px;
+  padding-bottom: 10.5px;
+  padding-right: 21px;
+  padding-left: 21px;
+  border-radius: 3px;
+  transition: background-color 0.2s
+    color 0.15s;
+  margin-right: 9px;
+  cursor: pointer;
+}
+.Download-button:hover{
+  background-color: rgb(118, 127, 134);
+  color: white;
+}
+.Apply-button{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-right: 24px;
+  padding-left: 24px;
+  font-weight: bold;
+  border-radius: 25px;
+  transition: background-color 0.2s;
+  margin-right: 9px;
+  cursor: pointer;
+}
+.Apply-button:hover{
+  background-color: rgb(5, 63, 122);
+}
+.Save-button{
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(10, 102, 194);
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 18px;
+  padding-left: 18px;
+  font-weight: bold;
+  border-radius: 18px;
+  margin-right: 9px;
+  cursor: pointer;
+}
+.Save-button:hover{
+  border-width: 1px;
+  opacity: 0.9;
+}
+.name-bar,
+.email-bar{
+ display: block;
+ margin-bottom: 3px;
+}
+.yes-bar,
+.no-bar{
+  width: 40px;
+  vertical-align: middle;
+  display: inline-block;
+}
+.first-bar{
+ width: 105px;
+ height: 32px;
+ padding-left: 15px;
+ border: 1.5px solid lightgray;
+ border-radius: 8px;
+ margin-left: 5px;
+}
+.first{
+  width: 105px;
+ height: 32px;
+ color: solid gray;
+ padding-left: 15px;
+ border: 1.5px solid lightgray;
+ border-radius: 8px;
+ margin-left: 0.3px;
+}
+.Email-bar{
+ width: 236px;
+ height: 32px;
+ padding-left: 15px;
+ border: 1.5px solid lightgray;
+ border-radius: 8px;
+ margin-left: 5px;
+}
+.sign{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding-top: 10.5px;
+  padding-bottom: 10.5px;
+  padding-right: 105px;
+  padding-left: 105px;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-right: 9px;
+  cursor: pointer;
+}
+.now,
+.Enter-bar,
+.enter{
+  display: block;
+}
+.now{
+  font-family: Arial;
+  font-size: 44px;
+  margin-bottom: 22px;
+}
+.Enter-bar{
+  width: 400px;
+  height: 40px;
+  padding-left: 20px;
+  border: none;
+  background-color: #f0f0f0;
+  margin-bottom: 10px;
+}
+.Request{
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 1px;
+  margin-right: 9px;
+  margin-top: 17px;
+  cursor: pointer;
+}
+.later{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border: none;
+  background-color: #f0f0f0;
+  margin-bottom: 10px;
+}
